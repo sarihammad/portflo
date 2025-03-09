@@ -1,4 +1,4 @@
-# Portfolio Optimization using Reinforcement Learning
+# Portflo: Portfolio Optimization using Reinforcement Learning
 
 This project implements a reinforcement learning-based portfolio optimization system that dynamically adjusts asset allocation based on market conditions to maximize returns while managing risk.
 
